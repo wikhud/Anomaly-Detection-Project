@@ -1,5 +1,5 @@
 # Anomaly Detection Project
-The task of this project is to investigate various anomaly detection methods in real-life datasets.
+The task is to investigate various anomaly detection methods in real-life datasets.
 
 Following anomaly detection methods were chosen:
 * OneClassSVM()
