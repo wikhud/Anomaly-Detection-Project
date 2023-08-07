@@ -1,5 +1,5 @@
 # Anomaly Detection Project
-The aim of this project is a research the performance of various anomaly detection methods on several datasets.
+The aim of this project is a research on performance of various anomaly detection methods on several datasets.
 
 Anomaly detection methods selected are:
 * OneClassSVM()
