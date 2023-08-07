@@ -1,13 +1,13 @@
 # Anomaly Detection Project
-The task is to investigate various anomaly detection methods in real-life datasets.
+The aim of this project is a research the performance of various anomaly detection methods on several datasets.
 
-Following anomaly detection methods were chosen:
+Anomaly detection methods selected are:
 * OneClassSVM()
 * IsolationForest()
 * EllipticEnvelope()
 
-Parameters of these methods are then selceted with tuning alghoritms such as Grid Search and Randomized Search. Combinations of 3 parameters of 3 different values are tested.
-In case of difference in results of search methods, the one with the better best_score_ is selected for further research. In addition, for each dataset, there are several types of scoring for both tuning methods.
+Hyperparameters of these methods are optimized with tuning alghoritms, such as Grid Search and Randomized Search. Combinations of 3 parameters of 3 different values are tested.
+In case of difference in results of search methods, the one with better best_score_ is selected for further research. In addition, for each dataset, there are several types of scoring for both tuning methods.
 
 From http://odds.cs.stonybrook.edu/ following datasets were selected:
 * 'mammography' - characteristics: large amount of data; very small number of dimensions; small percentage of outliers
